@@ -110,8 +110,8 @@ const styles = StyleSheet.create({
     paddingTop: 5,
   },
   image: {
-    width: '100px',
-    height: '100px',
+    width: '80%',
+    height: '100%',
     borderRadius: 5,
     borderStyle: '1px solid #FFF'
   },
